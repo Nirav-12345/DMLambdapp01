@@ -1,0 +1,15 @@
+C:\Users\Nirav Raj\Desktop\day 24\UC4MobileFormat\bin\Debug\net6.0\UC4MobileFormat.exe
+C:\Users\Nirav Raj\Desktop\day 24\UC4MobileFormat\bin\Debug\net6.0\UC4MobileFormat.deps.json
+C:\Users\Nirav Raj\Desktop\day 24\UC4MobileFormat\bin\Debug\net6.0\UC4MobileFormat.runtimeconfig.json
+C:\Users\Nirav Raj\Desktop\day 24\UC4MobileFormat\bin\Debug\net6.0\UC4MobileFormat.dll
+C:\Users\Nirav Raj\Desktop\day 24\UC4MobileFormat\bin\Debug\net6.0\UC4MobileFormat.pdb
+C:\Users\Nirav Raj\Desktop\day 24\UC4MobileFormat\obj\Debug\net6.0\UC4MobileFormat.csproj.AssemblyReference.cache
+C:\Users\Nirav Raj\Desktop\day 24\UC4MobileFormat\obj\Debug\net6.0\UC4MobileFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirav Raj\Desktop\day 24\UC4MobileFormat\obj\Debug\net6.0\UC4MobileFormat.AssemblyInfoInputs.cache
+C:\Users\Nirav Raj\Desktop\day 24\UC4MobileFormat\obj\Debug\net6.0\UC4MobileFormat.AssemblyInfo.cs
+C:\Users\Nirav Raj\Desktop\day 24\UC4MobileFormat\obj\Debug\net6.0\UC4MobileFormat.csproj.CoreCompileInputs.cache
+C:\Users\Nirav Raj\Desktop\day 24\UC4MobileFormat\obj\Debug\net6.0\UC4MobileFormat.dll
+C:\Users\Nirav Raj\Desktop\day 24\UC4MobileFormat\obj\Debug\net6.0\refint\UC4MobileFormat.dll
+C:\Users\Nirav Raj\Desktop\day 24\UC4MobileFormat\obj\Debug\net6.0\UC4MobileFormat.pdb
+C:\Users\Nirav Raj\Desktop\day 24\UC4MobileFormat\obj\Debug\net6.0\UC4MobileFormat.genruntimeconfig.cache
+C:\Users\Nirav Raj\Desktop\day 24\UC4MobileFormat\obj\Debug\net6.0\ref\UC4MobileFormat.dll

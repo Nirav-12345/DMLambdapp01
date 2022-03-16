@@ -1,0 +1,15 @@
+C:\Users\Nirav Raj\Desktop\day 24\UC2LastName\obj\Debug\net6.0\UC2LastName.csproj.AssemblyReference.cache
+C:\Users\Nirav Raj\Desktop\day 24\UC2LastName\obj\Debug\net6.0\UC2LastName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirav Raj\Desktop\day 24\UC2LastName\obj\Debug\net6.0\UC2LastName.AssemblyInfoInputs.cache
+C:\Users\Nirav Raj\Desktop\day 24\UC2LastName\obj\Debug\net6.0\UC2LastName.AssemblyInfo.cs
+C:\Users\Nirav Raj\Desktop\day 24\UC2LastName\obj\Debug\net6.0\UC2LastName.csproj.CoreCompileInputs.cache
+C:\Users\Nirav Raj\Desktop\day 24\UC2LastName\bin\Debug\net6.0\UC2LastName.exe
+C:\Users\Nirav Raj\Desktop\day 24\UC2LastName\bin\Debug\net6.0\UC2LastName.deps.json
+C:\Users\Nirav Raj\Desktop\day 24\UC2LastName\bin\Debug\net6.0\UC2LastName.runtimeconfig.json
+C:\Users\Nirav Raj\Desktop\day 24\UC2LastName\bin\Debug\net6.0\UC2LastName.dll
+C:\Users\Nirav Raj\Desktop\day 24\UC2LastName\bin\Debug\net6.0\UC2LastName.pdb
+C:\Users\Nirav Raj\Desktop\day 24\UC2LastName\obj\Debug\net6.0\UC2LastName.dll
+C:\Users\Nirav Raj\Desktop\day 24\UC2LastName\obj\Debug\net6.0\refint\UC2LastName.dll
+C:\Users\Nirav Raj\Desktop\day 24\UC2LastName\obj\Debug\net6.0\UC2LastName.pdb
+C:\Users\Nirav Raj\Desktop\day 24\UC2LastName\obj\Debug\net6.0\UC2LastName.genruntimeconfig.cache
+C:\Users\Nirav Raj\Desktop\day 24\UC2LastName\obj\Debug\net6.0\ref\UC2LastName.dll

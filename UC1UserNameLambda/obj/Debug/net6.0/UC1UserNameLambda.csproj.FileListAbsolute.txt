@@ -1,0 +1,15 @@
+C:\Users\Nirav Raj\Desktop\day 24\UC1UserNameLambda\bin\Debug\net6.0\UC1UserNameLambda.exe
+C:\Users\Nirav Raj\Desktop\day 24\UC1UserNameLambda\bin\Debug\net6.0\UC1UserNameLambda.deps.json
+C:\Users\Nirav Raj\Desktop\day 24\UC1UserNameLambda\bin\Debug\net6.0\UC1UserNameLambda.runtimeconfig.json
+C:\Users\Nirav Raj\Desktop\day 24\UC1UserNameLambda\bin\Debug\net6.0\UC1UserNameLambda.dll
+C:\Users\Nirav Raj\Desktop\day 24\UC1UserNameLambda\bin\Debug\net6.0\UC1UserNameLambda.pdb
+C:\Users\Nirav Raj\Desktop\day 24\UC1UserNameLambda\obj\Debug\net6.0\UC1UserNameLambda.csproj.AssemblyReference.cache
+C:\Users\Nirav Raj\Desktop\day 24\UC1UserNameLambda\obj\Debug\net6.0\UC1UserNameLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirav Raj\Desktop\day 24\UC1UserNameLambda\obj\Debug\net6.0\UC1UserNameLambda.AssemblyInfoInputs.cache
+C:\Users\Nirav Raj\Desktop\day 24\UC1UserNameLambda\obj\Debug\net6.0\UC1UserNameLambda.AssemblyInfo.cs
+C:\Users\Nirav Raj\Desktop\day 24\UC1UserNameLambda\obj\Debug\net6.0\UC1UserNameLambda.csproj.CoreCompileInputs.cache
+C:\Users\Nirav Raj\Desktop\day 24\UC1UserNameLambda\obj\Debug\net6.0\UC1UserNameLambda.dll
+C:\Users\Nirav Raj\Desktop\day 24\UC1UserNameLambda\obj\Debug\net6.0\refint\UC1UserNameLambda.dll
+C:\Users\Nirav Raj\Desktop\day 24\UC1UserNameLambda\obj\Debug\net6.0\UC1UserNameLambda.pdb
+C:\Users\Nirav Raj\Desktop\day 24\UC1UserNameLambda\obj\Debug\net6.0\UC1UserNameLambda.genruntimeconfig.cache
+C:\Users\Nirav Raj\Desktop\day 24\UC1UserNameLambda\obj\Debug\net6.0\ref\UC1UserNameLambda.dll

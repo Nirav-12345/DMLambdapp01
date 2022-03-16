@@ -1,0 +1,15 @@
+C:\Users\Nirav Raj\Desktop\day 24\UC3Email\bin\Debug\net6.0\UC3Email.exe
+C:\Users\Nirav Raj\Desktop\day 24\UC3Email\bin\Debug\net6.0\UC3Email.deps.json
+C:\Users\Nirav Raj\Desktop\day 24\UC3Email\bin\Debug\net6.0\UC3Email.runtimeconfig.json
+C:\Users\Nirav Raj\Desktop\day 24\UC3Email\bin\Debug\net6.0\UC3Email.dll
+C:\Users\Nirav Raj\Desktop\day 24\UC3Email\bin\Debug\net6.0\UC3Email.pdb
+C:\Users\Nirav Raj\Desktop\day 24\UC3Email\obj\Debug\net6.0\UC3Email.csproj.AssemblyReference.cache
+C:\Users\Nirav Raj\Desktop\day 24\UC3Email\obj\Debug\net6.0\UC3Email.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirav Raj\Desktop\day 24\UC3Email\obj\Debug\net6.0\UC3Email.AssemblyInfoInputs.cache
+C:\Users\Nirav Raj\Desktop\day 24\UC3Email\obj\Debug\net6.0\UC3Email.AssemblyInfo.cs
+C:\Users\Nirav Raj\Desktop\day 24\UC3Email\obj\Debug\net6.0\UC3Email.csproj.CoreCompileInputs.cache
+C:\Users\Nirav Raj\Desktop\day 24\UC3Email\obj\Debug\net6.0\UC3Email.dll
+C:\Users\Nirav Raj\Desktop\day 24\UC3Email\obj\Debug\net6.0\refint\UC3Email.dll
+C:\Users\Nirav Raj\Desktop\day 24\UC3Email\obj\Debug\net6.0\UC3Email.pdb
+C:\Users\Nirav Raj\Desktop\day 24\UC3Email\obj\Debug\net6.0\UC3Email.genruntimeconfig.cache
+C:\Users\Nirav Raj\Desktop\day 24\UC3Email\obj\Debug\net6.0\ref\UC3Email.dll
