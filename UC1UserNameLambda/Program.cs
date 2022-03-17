@@ -5,50 +5,47 @@ class Program
 {
     public static void Main(string[] args)
     {
-        
-        
-            
-            
 
 
+        string name = Console.ReadLine();
+        UC1 v = new UC1();
 
-            List<UC1LambdaUser> listperson = new List<UC1LambdaUser>();
+        bool match = v.validateName(name);
 
-            listperson.Add(new UC1LambdaUser("Nir"));
-
-            string s = "[A-Z]{1}[A-Za-z]{2}$";
-        try
+        if(match)
         {
-            foreach (UC1LambdaUser uC1Lambda in listperson.FindAll(e => e.FirstName == "nir"))
+            try
             {
                 Console.WriteLine(true);
             }
 
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
         }
-
-        catch (AccessViolationException e)
-        {
-            Console.WriteLine(e.Message);
-        }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
     
         
 
-}

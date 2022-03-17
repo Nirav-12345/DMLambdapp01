@@ -3,20 +3,17 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Text.RegularExpressions;
 
 namespace UC2LastName
 {
     public class UC2
     {
 
-        public string LastName;
-
-
-
-        public UC2(string lastName)
+        public static string s = "[A-Z]{1}[A-Za-z]{2}$";
+        public bool validateName(string name)
         {
-
-            LastName = lastName;
+            return Regex.IsMatch(name, s);
         }
 
 

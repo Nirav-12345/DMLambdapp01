@@ -1,0 +1,15 @@
+C:\Users\Nirav Raj\Desktop\day 24\UC3EmailLambda\bin\Debug\net6.0\UC3EmailLambda.exe
+C:\Users\Nirav Raj\Desktop\day 24\UC3EmailLambda\bin\Debug\net6.0\UC3EmailLambda.deps.json
+C:\Users\Nirav Raj\Desktop\day 24\UC3EmailLambda\bin\Debug\net6.0\UC3EmailLambda.runtimeconfig.json
+C:\Users\Nirav Raj\Desktop\day 24\UC3EmailLambda\bin\Debug\net6.0\UC3EmailLambda.dll
+C:\Users\Nirav Raj\Desktop\day 24\UC3EmailLambda\bin\Debug\net6.0\UC3EmailLambda.pdb
+C:\Users\Nirav Raj\Desktop\day 24\UC3EmailLambda\obj\Debug\net6.0\UC3EmailLambda.csproj.AssemblyReference.cache
+C:\Users\Nirav Raj\Desktop\day 24\UC3EmailLambda\obj\Debug\net6.0\UC3EmailLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirav Raj\Desktop\day 24\UC3EmailLambda\obj\Debug\net6.0\UC3EmailLambda.AssemblyInfoInputs.cache
+C:\Users\Nirav Raj\Desktop\day 24\UC3EmailLambda\obj\Debug\net6.0\UC3EmailLambda.AssemblyInfo.cs
+C:\Users\Nirav Raj\Desktop\day 24\UC3EmailLambda\obj\Debug\net6.0\UC3EmailLambda.csproj.CoreCompileInputs.cache
+C:\Users\Nirav Raj\Desktop\day 24\UC3EmailLambda\obj\Debug\net6.0\UC3EmailLambda.dll
+C:\Users\Nirav Raj\Desktop\day 24\UC3EmailLambda\obj\Debug\net6.0\refint\UC3EmailLambda.dll
+C:\Users\Nirav Raj\Desktop\day 24\UC3EmailLambda\obj\Debug\net6.0\UC3EmailLambda.pdb
+C:\Users\Nirav Raj\Desktop\day 24\UC3EmailLambda\obj\Debug\net6.0\UC3EmailLambda.genruntimeconfig.cache
+C:\Users\Nirav Raj\Desktop\day 24\UC3EmailLambda\obj\Debug\net6.0\ref\UC3EmailLambda.dll
